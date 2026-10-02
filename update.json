@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "version": "0.4.0",
+  "releaseNotes": "밥 먹기·커피·피곤함과 독립적인 표정, 드래그·클릭 애니메이션, 바탕화면 빠른 편지·연속 Enter 전송, 두 화면 수업 시작 전·남은 시간, 날짜별 편지·공유 기념일, 여러 기기 동시 로그인, 오프라인 집·밤 수면, 내 캐릭터 표시, 검증된 앱 업데이트를 추가했습니다. 대화 증분 렌더링과 120행 표시로 메모리 사용도 줄였습니다.",
+  "assets": {
+    "darwin-arm64": {
+      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.0/Jjokkom-0.4.0-mac-arm64.zip",
+      "sha256": "7307b9ff8616305e1091f00789e7c3856d26187041e1e5cdcb3bc542f488bacd",
+      "size": 134873375
+    },
+    "darwin-x64": {
+      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.0/Jjokkom-0.4.0-mac-x64.zip",
+      "sha256": "7afed3f3005e7e9f4ca91b7049fac538bcc5b925a01fd1b3031de72713b7808a",
+      "size": 138603595
+    },
+    "win32-x64": {
+      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.0/Jjokkom-0.4.0-win-x64.exe",
+      "sha256": "3cbfbc9c661b02b4a80565101f6b88aa916d53770e4924036e7e637ca893980d",
+      "size": 117577873
+    }
+  }
+}
