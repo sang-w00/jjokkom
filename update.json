@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.0",
-  "releaseNotes": "밥 먹기·커피·피곤함과 독립적인 표정, 드래그·클릭 애니메이션, 바탕화면 빠른 편지·연속 Enter 전송, 두 화면 수업 시작 전·남은 시간, 날짜별 편지·공유 기념일, 여러 기기 동시 로그인, 오프라인 집·밤 수면, 내 캐릭터 표시, 검증된 앱 업데이트를 추가했습니다. 대화 증분 렌더링과 120행 표시로 메모리 사용도 줄였습니다.",
+  "version": "0.4.1",
+  "releaseNotes": "Mac 다운로드 앱의 손상 판정 원인이던 불완전한 서명을 수정했습니다. 두 Mac 아키텍처를 ad-hoc 서명하고 실제 ZIP 압축 해제 후 서명 무결성을 검증합니다. 0.4.0의 기능과 메모리 최적화는 그대로 유지합니다. Apple 개발자 인증서 서명·공증은 없어 첫 실행 시 macOS의 앱별 허용이 필요할 수 있습니다.",
   "assets": {
     "darwin-arm64": {
-      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.0/Jjokkom-0.4.0-mac-arm64.zip",
-      "sha256": "7307b9ff8616305e1091f00789e7c3856d26187041e1e5cdcb3bc542f488bacd",
-      "size": 134873375
+      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.1/Jjokkom-0.4.1-mac-arm64.zip",
+      "sha256": "8cc7fe611fb6cc04a419b848dbcab431fb5da465f0db85b9206731d3ff8a4065",
+      "size": 133597253
     },
     "darwin-x64": {
-      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.0/Jjokkom-0.4.0-mac-x64.zip",
-      "sha256": "7afed3f3005e7e9f4ca91b7049fac538bcc5b925a01fd1b3031de72713b7808a",
-      "size": 138603595
+      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.1/Jjokkom-0.4.1-mac-x64.zip",
+      "sha256": "8658a184133c6a682d641292fca8d75cce0e450643fd0b3e68ef042117280145",
+      "size": 140408055
     },
     "win32-x64": {
-      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.0/Jjokkom-0.4.0-win-x64.exe",
-      "sha256": "3cbfbc9c661b02b4a80565101f6b88aa916d53770e4924036e7e637ca893980d",
-      "size": 117577873
+      "url": "https://github.com/sang-w00/jjokkom/releases/download/v0.4.1/Jjokkom-0.4.1-win-x64.exe",
+      "sha256": "f45a6e4d9481df1ad9c71250dfc94f1c1aa2f68d50181f2d36fe72cf6e99988b",
+      "size": 117579590
     }
   }
 }
